@@ -1,9 +1,9 @@
 //do not modify the following
-name: "techdustry"
-displayName: "Techdustry"
+name: "techdustryDev"
+displayName: "Techdustry Develpoer"
 description: "This mod adds specal additions in terms of technologies. Mod is still unfinished yet the entire mod is already planned inside my head."
 author: "THEGAMER_10n"
 // can be modified
-version: "0.1d-beta"
-minGameVersion: "116"
-hidden: false
+version: "h"
+minGameVersion: "125"
+hidden: true
